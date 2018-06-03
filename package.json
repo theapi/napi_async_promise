@@ -1,0 +1,29 @@
+{
+  "name": "napi_async_promise",
+  "version": "1.0.0",
+  "description": "An example of an asynchronous promise in pure C for node.js N-API addon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theapi/napi_async_promise.git"
+  },
+  "keywords": [
+    "napi",
+    "n-api",
+    "native",
+    "addon",
+    "asynchronous",
+    "async",
+    "promise",
+    "deferred"
+  ],
+  "author": "Peter Clarke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theapi/napi_async_promise/issues"
+  },
+  "homepage": "https://github.com/theapi/napi_async_promise#readme"
+}
